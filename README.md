@@ -90,12 +90,12 @@ This project requires **Tesseract OCR** and **Poppler** to be installed
 and available in your system `PATH`.
 
 -   **Tesseract OCR**: [Installation
-    Guide](https://tesseract-ocr.github.io/tessdoc/Installation.html)\
+    Guide](https://digi.bib.uni-mannheim.de/tesseract/)\
 -   **Poppler**:
     -   Linux: available in most package managers
         (`apt install poppler-utils`, `brew install poppler` on macOS).\
     -   Windows: download [Poppler for
-        Windows](https://blog.alivate.com.au/poppler-windows/) and add
+        Windows](https://github.com/oschwartz10612/poppler-windows/releases/tag/v25.07.0-0) and add
         the `bin/` folder to PATH.
 
 ------------------------------------------------------------------------
