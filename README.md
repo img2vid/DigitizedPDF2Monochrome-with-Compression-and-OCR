@@ -89,8 +89,7 @@ pip install pillow opencv-python-headless pdf2image PyPDF2 tqdm numpy pytesserac
 This project requires **Tesseract OCR** and **Poppler** to be installed
 and available in your system `PATH`.
 
--   **Tesseract OCR**: [Installation
-    Guide](https://digi.bib.uni-mannheim.de/tesseract/)\
+-   **Tesseract OCR**: [Tesseract for Windows](https://digi.bib.uni-mannheim.de/tesseract/)\
 -   **Poppler**:
     -   Linux: available in most package managers
         (`apt install poppler-utils`, `brew install poppler` on macOS).\
